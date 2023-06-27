@@ -1,2 +1,7 @@
 
+ls
+git pull origin
 touch up_to_date
+vi up_to_date
+git add *
+
