@@ -1,0 +1,6 @@
+ git pull origin main
+ ls
+ cd 0x01-git
+ touch up_to_date
+ vi up_to_date
+ git add *
